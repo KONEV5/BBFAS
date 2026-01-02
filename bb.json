@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "BBFAS-GTA.exe",
+    "Version": "1.7.2.0",
+    "SavePath": "BBFAS-GTA.exe",
+    "Url": "https://img.kookapp.cn/attachments/2025-12/18/6943e4b204155",
+    "IsMainProgram": true
+  },
+  {
+    "Name": "OutfitEditor.exe",
+    "Version": "1.7.2.0",
+    "SavePath": "OutfitEditor.exe",
+    "Url": "https://img.kookapp.cn/attachments/2025-12/16/6941526622c4a.exe",
+    "IsMainProgram": false
+  },
+  {
+    "Name": "YimMenu.dll",
+    "Version": "Nightly [3112149]",
+    "SavePath": "YimMenu.dll",
+    "Url": "https://github.com/Mr-X-GTA/YimMenu/releases/download/nightly/YimMenu.dll",
+    "IsMainProgram": false
+  },
+  {
+    "Name": "YimMenuV2.dll",
+    "Version": "Nightly [2f7fbc4]",
+    "SavePath": "YimMenuV2.dll",
+    "Url": "https://github.com/YimMenu/YimMenuV2/releases/download/nightly/YimMenuV2.dll",
+    "IsMainProgram": false
+  },
+  {
+    "Name": "Stand.Launchpad.exe",
+    "Version": "Stand Launchpad 1.9.3",
+    "SavePath": "Stand.Launchpad.exe",
+    "Url": "https://github.com/calamity-inc/Stand-Launchpad/releases/latest/download/Stand.Launchpad.exe",
+    "IsMainProgram": false
+  },
+  {
+    "Name": "bbupdater.exe",
+    "Version": "1.1",
+    "SavePath": "bbupdater.exe",
+    "Url": "https://img.kookapp.cn/attachments/2025-04/30/681190a2bb91e.exe",
+    "IsMainProgram": false
+  },
+  {
+    "Name": "stats_editor 0.0.1.exe",
+    "Version": "1.7.2",
+    "SavePath": "stats_editor 0.0.1.exe",
+    "Url": "https://img.kookapp.cn/attachments/2025-12/18/6943e4d5150e8",
+    "IsMainProgram": false
+  }
+]
